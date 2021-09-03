@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T11:13:03.888Z" agent="5.0 (Windows)" etag="5I3pFpSlDDze0_s7UwKg" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T13:27:04.080Z" agent="5.0 (Windows)" etag="JftYFIpFTjk2pP5N1gdd" version="15.0.6" type="github">
   <diagram id="2F14lIFTJIh4kltIJnCL" name="Page-1">
-    <mxGraphModel dx="981" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,8 +23,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hgSRxLlvKAgDmwlohQyx-2" value="GameRoom" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="hgSRxLlvKAgDmwlohQyx-2" value="GameRoom" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hgSRxLlvKAgDmwlohQyx-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hgSRxLlvKAgDmwlohQyx-5" target="hgSRxLlvKAgDmwlohQyx-19">
           <mxGeometry relative="1" as="geometry" />
